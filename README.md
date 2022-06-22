@@ -9,5 +9,6 @@
 #### 5.Drone status check, click to detail
 #### 6.Configuration save to local
 #### 7.Multilanguage suport, English japanese chinese
+#### 8.Editable RTSP address
 ---
 ### more feature in coming!
