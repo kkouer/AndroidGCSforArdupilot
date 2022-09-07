@@ -10,5 +10,6 @@
 #### 6.Configuration save to local
 #### 7.Multilanguage suport, English japanese chinese
 #### 8.Editable RTSP address
+#### 9.RTK support, inject RTCM data to ardupilot
 ---
 ### more feature in coming!
