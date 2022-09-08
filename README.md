@@ -4,7 +4,7 @@
 ![avatar](https://discuss.ardupilot.org/uploads/default/original/3X/f/0/f055db6f250cda3d83eface6f9eac2ff9453bf82.png)
 ## Features:
 #### 1.Connect to drone via UDP or serialport
-#### 2.Flight line planner, realtime preview, waypoint upload and download
+#### 2.Flight line planner, realtime preview, waypoint upload and download (update Start point selection)
 #### 3.Camera link via rtsp
 #### 4.Command send, switch mode
 #### 5.Drone status check, click to detail
