@@ -13,5 +13,6 @@
 #### 8.Editable RTSP address
 #### 9.RTK support, inject RTCM data to ardupilot
 #### 10.SmartBattery View added in setting page
+#### 11.Update Video control to GSYVideoPlayer
 ---
 ### more feature in coming!
