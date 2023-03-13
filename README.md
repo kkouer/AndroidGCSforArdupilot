@@ -14,5 +14,9 @@
 #### 9.RTK support, inject RTCM data to ardupilot
 #### 10.SmartBattery View added in setting page
 #### 11.Update Video control to GSYVideoPlayer
+#### 12.Add new version update online
+#### 13.Update UI view, payload info panel, video hloder black background
+#### 14.Update RTK panel Statlite view
+#### 15.Update moreInfoPanel view, battery info panel
 ---
 ### more feature in coming!
