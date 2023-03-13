@@ -1,7 +1,7 @@
 # This is GCS(Ground control system) for ardupilot on Android!
-![avatar](https://discuss.ardupilot.org/uploads/default/optimized/3X/f/d/fd2f6793032baeb147b2d7c4e0c87b78e6838983_2_345x215.jpeg)
+![avatar](https://discuss.ardupilot.org/uploads/default/original/3X/d/c/dce34c36a9056ce11f5e2532ce1062284dc40277.jpeg)
 ![avatar](https://discuss.ardupilot.org/uploads/default/optimized/3X/3/5/351506274b419cca3233a83c1a5bb682ff7dc537_2_345x215.jpeg)
-![avatar](https://discuss.ardupilot.org/uploads/default/original/3X/f/0/f055db6f250cda3d83eface6f9eac2ff9453bf82.png)
+![avatar](https://discuss.ardupilot.org/uploads/default/original/3X/b/7/b79435db3ac750c3c2ff21bd03eae218cd862da7.png)
 ## Features:
 #### 1.Connect to drone via UDP or serialport
 #### 2.Flight line planner, realtime preview, waypoint upload and download (update Start point selection)
