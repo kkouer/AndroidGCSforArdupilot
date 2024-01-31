@@ -18,5 +18,6 @@
 #### 13.Update UI view, payload info panel, video hloder black background
 #### 14.Update RTK panel Statlite view
 #### 15.Update moreInfoPanel view, battery info panel
+#### 16.Add fly time bar under status bar, Visual battery and flight time estimation
 ---
 ### more feature in coming!
